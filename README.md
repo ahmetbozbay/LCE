@@ -1,0 +1,2 @@
+# LCE
+Longest Common Extension
